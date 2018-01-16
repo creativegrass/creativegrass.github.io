@@ -1,0 +1,26 @@
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="delcreate.gl" resolutions="1x,2x" timestamp="1516129938177">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="master_a-master.css" crc="282629985" ref="index:about-us:works"/>
+    <file name="index.css" crc="4028079084" ref="index"/>
+    <file name="about-us.css" crc="245574908" ref="about-us"/>
+    <file name="works.css" crc="245574908" ref="works"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about-us:works"/>
+    <file name="museutils.js" crc="163421577" ref="index:about-us:works"/>
+    <file name="whatinput.js" crc="86476730" ref="index:about-us:works"/>
+    <file name="museconfig.js" crc="168988563" ref="index:about-us:works"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="379354253" ref="index"/>
+    <file name="jquery.watch.js" crc="104486786" ref="index:about-us:works"/>
+    <file name="require.js" crc="244322403" ref="index:about-us:works"/>
+  </folder>
+  <folder name="images">
+    <file name="shutterstock_124151659.jpg" crc="3805847560" ref="index"/>
+    <file name="delcreate-01.png" crc="375341733" seo="true" ref="index:about-us:works"/>
+    <file name="delcreate-01_2x.png" crc="106545980" seo="true" ref="index:about-us:works"/>
+  </folder>
+  <file name="index.html" crc="217686955" seo="true" mt="1516106912255" redirect="true"/>
+  <file name="about-us.html" crc="4041844861" seo="true" mt="1516107096855" redirect="true"/>
+  <file name="works.html" crc="3981062710" seo="true" mt="1516107103350" redirect="true"/>
+</manifest>
